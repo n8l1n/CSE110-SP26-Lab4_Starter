@@ -18,6 +18,8 @@ function sumValues(num1, num2, add) {
     }
 }
 
+//here's me adding a comment as a change and creating a pull request to see what happens!
+
 /**
  * 
  * @param {*} prices, an array of the original price.
